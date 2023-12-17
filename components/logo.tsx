@@ -20,7 +20,7 @@ export const Logo = () => {
             headingFont.className
           )}
         >
-          Taskify
+          Trello Clone
         </p>
       </div>
     </Link>
